@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=author\ title\ isbn\ dateAcquired
+comment0.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ displayDetails()
+comment2.params=
+comment2.target=void\ borrow()
+comment3.params=
+comment3.target=void\ giveback()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=title\ artist\ playingTime\ acquired
+comment0.target=CD(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ displayDetails()
+numComments=2
